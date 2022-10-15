@@ -1,11 +1,10 @@
 ![logo](https://github.com/sofianiyazson/sofianiyazson/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 <!---
-sofianiyazson/sofianiyazson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 <h1 align="center">Hi 👋, I'm Sofia Niyazson</h1>
-<h3 align="center">passionate developer with an extra eye for UI stationed in Sweden</h3>
+<h4 align="center">passionate and perfectionist developer with an extra eye for UI stationed in Sweden who loves spending time reading books 📚, watching documentaries 🎬 apart from coding. Besides that, I love being out in nature ice skating ⛸, kayaking 🛶, among other things. </h4>
 
 - 👨‍💻 All of my projects are available at [sofniy.co](sofniy.co)
 
