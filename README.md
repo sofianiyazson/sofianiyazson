@@ -4,7 +4,7 @@
 
 --->
 <h1 align="center">Hi 👋, I'm Sofia Niyazson</h1>
-<h4 align="center">passionate and perfectionist developer with an extra eye for UI stationed in Sweden who loves spending time reading books 📚, watching documentaries 🎬 apart from coding. Besides that, I love being out in nature ice skating ⛸, kayaking 🛶, among other things. </h4>
+<h4 align="center">passionate and perfectionist developer with an extra eye for UI stationed in Sweden who loves spending time reading books 📚, watching documentaries 🎬 apart from coding. Besides that, I love being out in nature ice skating ⛸, kayaking 🛶, among other things.  </h4>
 
 - 👨‍💻 All of my projects are available at [sofniy.co](sofniy.co)
 
