@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Sofia Niyazson</h1>
 <h4 align="center">passionate and perfectionist developer with an extra eye for UI stationed in Sweden who loves spending time reading books 📚, watching documentaries 🎬 apart from coding. Besides that, I love being out in nature ice skating ⛸, kayaking 🛶, among other things.  </h4>
 
-- 👨‍💻 All of my projects are available at [sofniy.co](sofniy.co)
+- 👨‍💻 All of my projects are available at [niyazson.com](niyazson.com)
 
 - 📫 How to reach me **sofianiyazson@gmail.com**
 
