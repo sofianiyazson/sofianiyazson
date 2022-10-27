@@ -6,13 +6,15 @@
 <h1 align="center">Hi 👋, I'm Sofia Niyazson</h1>
 <h4 align="center">passionate and perfectionist developer with an extra eye for UI stationed in Sweden who loves spending time reading books 📚, watching documentaries 🎬 apart from coding. Besides that, I love being out in nature ice skating ⛸, kayaking 🛶, among other things.  </h4>
 
-- 👨‍💻 All of my projects are available at [niyazson.com](niyazson.com)
+- 👨‍💻 All of my projects are available at [niyazson.com](https://www.niyazson.com)
 
 - 📫 How to reach me **sofianiyazson@gmail.com**
 
+- 📄 Click here for my [resume](https://dvqlxo2m2q99q.cloudfront.net/000_clients/3468331/file/q22299ivcfjxlDO3.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sofia-niyazson-225032237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sofia-niyazson-225032237" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sofia-niyazson-225032237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sofia-niyazson-225032237" height="30" width="40" /></a>
 <a href="https://instagram.com/sof.niy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sof.niy" height="30" width="40" /></a>
 </p>
 
